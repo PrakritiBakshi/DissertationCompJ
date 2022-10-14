@@ -1,14 +1,22 @@
-# The lingering effects of British Colonialism on India
+# Hello Website (blank)
 
-Some of the lingering remnants of colonisation are tangible and can be measured. They are visible in the form of museum displays and the names of roads, but 200 years of colonial rule has also manifested in the form of deep-seated behaviours that still exist today. This project looks at two disparate themes, one from each end of the tangibility spectrum: a) the repatriation of artefacts to their countries of origin and b) the perpetuation of colourism through the fairness cream industry.
+This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
 
-This repository is for Prakriti Bakshi's dissertation for MSc Computational and Data Journalism at Cardiff University. 
-It contains code, data, and graphics used to produce the two articles that make up the project: 
-1. The Amaravati Marbles: A story of possession and repatriation
-2. The langauge of skin lightening creams in India
+## What's in this project?
 
-Although the data has been collected in a systematic way, it is still subject to human error. If you have any questions please write to me at prakritibakshi@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/prakriti-bakshi-data/). 
+← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 
-The project can be viewed [here](https://lingering-effects-of-british-colonialism-on-india.glitch.me/index.html).
+← `index.html`: This is the main HTML page for your site.
 
+← `style.css`: CSS files add styling rules to your content.
 
+← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+
+## You built this with Glitch!
+
+[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+
+- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
+- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
